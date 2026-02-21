@@ -1,0 +1,6 @@
+- Python ≥ 3.8
+- TensorFlow / Keras
+- NumPy
+- Pandas
+- scikit-learn
+- pickle
