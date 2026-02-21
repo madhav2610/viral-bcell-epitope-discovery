@@ -1,4 +1,6 @@
 🦠 Viral B-Cell Epitope Discovery: A Deep Learning Motif Scanner
+
+
 🎯 The Objective
 
 B-cell epitopes are the specific regions of a virus that are recognized by the human immune system. Traditional epitope discovery relies on expensive and time-consuming wet-lab assays. The goal of this project was to build a computationally lightweight deep learning pipeline that learns from historical viral datasets (SARS and curated B-cell epitope data) to predict potential immunogenic regions on previously unseen SARS-CoV-2 sequences.
